@@ -1,9 +1,9 @@
 # Transmute dApp
 
-This project is deprecated. See https://github.com/transmute-industries/transmute-dapp
+This project is deprecated. See https://github.com/softfantasy/convert-dApp
 
-[![Build Status](https://travis-ci.org/transmute-industries/dapp.svg?branch=master)](https://travis-ci.org/transmute-industries/dapp)
-[![Coverage Status](https://coveralls.io/repos/github/transmute-industries/dapp/badge.svg?branch=master)](https://coveralls.io/github/transmute-industries/dapp?branch=master)
+[![Build Status](https://travis-ci.org/softfantasy/dapp.svg?branch=master)](https://travis-ci.org/softfantasy/dapp)
+[![Coverage Status](https://coveralls.io/repos/github/softfantasy/dapp/badge.svg?branch=master)](https://coveralls.io/github/softfantasy/dapp?branch=master)
 
 Create an issue if you want a feature or need help!
 
@@ -42,7 +42,7 @@ If everything works, the app will be available at:
 You will need to install https://ipfs.io/ & https://nodejs.org/en/
 
 ```
-$ git clone https://github.com/transmute-industries/dapp.git
+$ git clone https://github.com/softfantasy/dapp.git
 $ cd dapp
 $ npm install -g truffle ethereumjs-testrpc
 $ npm install
